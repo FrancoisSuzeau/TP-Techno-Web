@@ -1,0 +1,18 @@
+com/uca/core/ArticleCore.java
+ com.uca.core.ArticleCore
+com/uca/dao/_Generic.java
+ com.uca.dao._Generic
+com/uca/gui/ArticleGUI.java
+ com.uca.gui.ArticleGUI
+com/uca/dao/ArticleDAO.java
+ com.uca.dao.ArticleDAO
+com/uca/StartServer.java
+ com.uca.StartServer
+com/uca/entity/ArticleEntity.java
+ com.uca.entity.ArticleEntity
+com/uca/dao/_Connector.java
+ com.uca.dao._Connector
+com/uca/dao/_Initializer.java
+ com.uca.dao._Initializer
+com/uca/gui/_FreeMarkerInitializer.java
+ com.uca.gui._FreeMarkerInitializer
